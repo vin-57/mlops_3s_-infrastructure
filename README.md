@@ -1,1 +1,1 @@
-# mlops_3s_-infrastructure
+# mlops_3s_infrastructure
